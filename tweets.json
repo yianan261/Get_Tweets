@@ -1,0 +1,6 @@
+{
+  "tweet1": "lol you're so funny",
+  "tweet2": "fetch requests are controlled by connect-src directive of content security policy rather than the directive of the resources it's retrieving",
+  "tweet3": "To cause browsers to send a request with credentials included on both same-origin and cross-origin calls, add credentials: 'include' to the init object you pass to the fetch() method",
+  "tweet4": "With a promise-based API, the asynchronous function starts the operation and returns a Promise object. "
+}
